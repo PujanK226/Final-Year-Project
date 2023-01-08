@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537295033325",
+    "project_id": "e-tax-payment",
+    "storage_bucket": "e-tax-payment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537295033325:android:ddd3bf5e53732696db8de4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537295033325-4s5qhoch1ecmf6i02vvppab5428p4n04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2_CQwJoDuKe7IMWvQDio2R7ZE6tSkQhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537295033325-4s5qhoch1ecmf6i02vvppab5428p4n04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
